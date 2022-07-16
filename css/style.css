@@ -246,16 +246,16 @@ p {
 }
 
 .advantages-list-item.icon-antenna::before {
-	background-image: url(/images/antenna.svg);
+	background-image: url(./images/antenna.svg);
 }
 .advantages-list-item.icon-clock::before {
-	background-image: url(/images/clock.svg);
+	background-image: url(./images/clock.svg);
 }
 .advantages-list-item.icon-diagram::before {
-	background-image: url(/images/diagram.svg);
+	background-image: url(./images/diagram.svg);
 }
 .advantages-list-item.icon-astronaut::before {
-	background-image: url(/images/diagram.svg);
+	background-image: url(./images/diagram.svg);
 }
 
 .advantages-list-item:not(:last-child) {
